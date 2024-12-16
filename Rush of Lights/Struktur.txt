@@ -1,0 +1,73 @@
+1. Header mit Navigation (oben fixiert)
+
+    Festival-Logo (oben links).
+    Menüleiste mit Links zu "Home", "Lineup", "Tickets", "Infos", "Kontakt" usw.
+    Hervorhebungsbutton: "Tickets kaufen" oder "Jetzt buchen".
+
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
+2. Hero-Bereich (Key Visual mit Fokus auf Erlebnis und Headliner)
+
+    Großflächiges Bild oder Video mit Festival-Vibes (z. B. Menschenmenge, Bühne, Lichter).
+    Festivalname, Ort und Datum: Z. B. "Sound of Freedom 2024 | 15.–17. Juli | Berlin".
+    Haupt-CTA-Button: "Lineup ansehen" oder "Tickets sichern".
+    Optional: Sekundär-Button mit "Erfahre mehr".
+
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
+3. Lineup-Highlights (Teaser der Top-Acts)
+
+    Zeige 3–6 Haupt-Acts mit Fotos oder Logos (falls verfügbar).
+    Ein kurzer Satz: "Erlebe die größten Namen der Musikszene live!"
+    Button-Link zum vollständigen Lineup.
+
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
+4. Festival-Infos
+
+    Wann und wo?: Datum und Standort (z. B. "Open Air Gelände am Main").
+    Was erwartet dich?: Kurze Beschreibung des Festivals, z. B. "3 Tage Musik, über 30 Acts, einzigartige Atmosphäre".
+    Link zu den detaillierten Infos.
+
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
+5. Ticket-Sektion
+
+    Preiskategorien: Überblick über z. B. Early-Bird, VIP, Tagestickets.
+    Hinweis, wenn Tickets knapp werden: "Nur noch wenige verfügbar!"
+    Direkter Button: "Tickets kaufen".
+
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
+6. Countdown (optional)
+
+    "Noch XX Tage bis zum Festival".
+    Ergänze mit einem animierten Timer oder kreativ gestaltetem Countdown.
+
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
+7. Bildergalerie oder Video (Festival-Erlebnis)
+
+    Emotionale Bilder vergangener Events oder Szenen, die Festival-Vibes transportieren (z. B. jubelnde Crowd, DJ auf der Bühne, Feuerwerk).
+    Video mit stimmungsvoller Musik kann die Atmosphäre verstärken.
+
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
+8. News oder Updates
+
+    Ankündigungen: Lineup-Updates, Specials oder Aktionen (z. B. Gewinnspiele).
+    Teaser: "Folge uns auf Instagram für die neuesten Infos!"
+
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
+9. Social Media Feed (optional)
+
+    Einbinden eines Instagram- oder Twitter-Feeds mit aktuellen Posts und Festival-Impressionen.
+
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
+10. Footer
+
+    Kontaktinfos, AGB, Impressum und Datenschutz.
+    Verlinkung zu Social Media Accounts.
+    Partnerlogos oder Sponsoren dezent integriert.
